@@ -1,0 +1,75 @@
+# Laundry Pod Base Formula v1.0
+
+## Formula Information
+
+| Item | Chemical Name                          | CAS No.                 | Percentage (%) | Trade Name       |
+| ---- | -------------------------------------- | ----------------------- | -------------- | ---------------- |
+| 1    | Propylene Glycol (PG)                  | 57-55-6                 | 15.00          | -                |
+| 2    | Glycerin / Glycerol                    | 56-81-5                 | 5.00           | -                |
+| 3    | Linear Alkylbenzene Sulfonic Acid      | 27176-87-0              | 20.00          | LAS 96           |
+| 4    | Sodium Lauryl Ether Sulfate (SLES)     | 68585-34-2 / 9004-82-4  | 8.00           | Texapon N70      |
+| 5    | Fatty Alcohol Ethoxylate (7EO)         | 68131-39-5              | 15.00          | Lutensol AO 7    |
+| 6    | Fatty Alcohol Ethoxylate (9EO)         | 68131-39-5              | 8.00           | Lutensol AO 9    |
+| 7    | Ethoxylated Alcohol (Specialty)        | 160875-66-1             | 15.00          | Lutensol XL 80   |
+| 8    | Coconut Fatty Acid                     | 61788-47-8              | 4.00           | 1210             |
+| 9    | Monoethanolamine (MEA)                 | 141-43-5                | 4.80           | MEA              |
+| 10   | Ethoxylated Polyethyleneimine (PEI-EO) | 26316-40-5 / 68130-99-4 | 2.00           | Sokalan HP 20    |
+| 11   | Enzymes                                | n/a                     | 2.50           | Novozymes Medley |
+| 12   | Fragrance                              | n/a                     | 2.00           | -                |
+| 13   | Color                                  | n/a                     | 0.10           | -                |
+| 14   | Citric Acid Solution                   | 77-92-9                 | 0.48           | -                |
+
+---
+
+## Formula Summary
+
+| Property                 | Value              |
+| ------------------------ | ------------------ |
+| Formula Type             | Laundry Pod Liquid |
+| Total Surfactant Content | 66%                |
+| Enzyme System            | Included           |
+| Polymer System           | Sokalan HP20       |
+| Solvent System           | PG + Glycerin      |
+| Neutralization Agent     | MEA                |
+| pH Adjuster              | Citric Acid        |
+
+---
+
+## Ingredient Functions
+
+| Ingredient         | Function                             |
+| ------------------ | ------------------------------------ |
+| LAS 96             | Primary anionic surfactant           |
+| SLES               | Foaming and detergency               |
+| AO 7               | Nonionic cleaning booster            |
+| AO 9               | Grease removal                       |
+| XL 80              | Low-temperature cleaning performance |
+| Coconut Fatty Acid | Soap formation after neutralization  |
+| MEA                | Neutralization and pH control        |
+| Sokalan HP20       | Soil release and anti-redeposition   |
+| Enzymes            | Protein and starch stain removal     |
+| Fragrance          | Consumer sensory profile             |
+| Citric Acid        | Final pH adjustment                  |
+
+---
+
+## Manufacturing Notes
+
+1. Add solvents (PG and Glycerin).
+2. Add nonionic surfactants under agitation.
+3. Slowly add LAS.
+4. Neutralize LAS and fatty acid with MEA.
+5. Add polymer.
+6. Cool below 40°C.
+7. Add enzymes.
+8. Add fragrance and color.
+9. Final pH adjustment using citric acid solution.
+10. Fill into PVA film and seal.
+
+---
+
+## Version History
+
+| Version | Date       | Changes                     |
+| ------- | ---------- | --------------------------- |
+| v1.0    | 2026-06-05 | Initial open-source release |
