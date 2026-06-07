@@ -1,0 +1,22 @@
+OpenPods
+│
+├── formulations
+│   ├── laundry
+│   ├── dishwasher
+│   └── fabric-softener
+│
+├── raw-materials
+│
+├── test-data
+│
+├── manufacturing
+│
+├── pva-films
+│
+├── suppliers
+│
+├── standards
+│
+├── tools
+│
+└── docs
